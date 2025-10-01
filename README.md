@@ -6,8 +6,9 @@
 
 <br/>
 
-<h2 align="center">🛠 Technology Stack</h2>
+<h2 align="center">🛠️ Technology Stack</h2>
 
+<div align="center">
 | Category | Technologies |
 |----------|--------------|
 | **Frontend** | TypeScript, React, Next.js, Vue |
@@ -22,16 +23,13 @@
 | **Architecture** | Microservices, SOA |
 | **Development Principles** | OOP, SOLID, Clean Architecture, FSD |
 | **Methodologies** | Agile, Scrum, Kanban, Troubleshooting |
+</div>
 
 <br/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,php,laravel,postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql,linux,bash,docker,nginx,apache" />
 </div>
-
-<br/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
 
