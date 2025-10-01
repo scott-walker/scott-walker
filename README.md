@@ -8,14 +8,6 @@
 
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,php,laravel,postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql,linux,bash,docker,nginx,apache" />
-</div>
-
-<br/>
-
 <div style="width: 100%;">
   <table>
     <tr>
@@ -47,19 +39,26 @@
 
 <br/>
 
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,php,laravel,postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql,linux,bash,docker,nginx,apache" />
+</div>
+
+<br/>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scott-walker&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Scott's stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scott-walker&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Scott's top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scott-walker&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" alt="Scott's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scott-walker&layout=compact&theme=buefy&hide_border=true&langs_count=8" alt="Scott's top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scott-walker&theme=radical&hide_border=true" alt="Scott's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scott-walker&theme=buefy&hide_border=true" alt="Scott's streak" />
 </div>
 
 <br/>
