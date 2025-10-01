@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2 align="center">🪓🎸🪄💡🧨⚒️🎨 Technology Stack</h2>
+<h2 align="center">🎸🪄💡🧨⚒️🎨🪓 Technology Stack</h2>
 
 <div align="center">
     
@@ -40,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,nginx" />
 </div>
 
+<hr/>
 <br/>
 
 <div align="center">
