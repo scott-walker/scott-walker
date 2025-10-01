@@ -30,17 +30,17 @@
 <br/>
 
 <div align="center">
-    <h2 align="center">Frontend</h2>
+    <h3 align="center">Frontend</h3>
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,figma,react,redux,nextjs,vue,pinia,vite,webpack" />
-    <h2 align="center">Backend</h2>
+    <h3 align="center">Backend</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,php,laravel" />
-    <h2 align="center">Data Layer</h2>
+    <h3 align="center">Data Layer</h3>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql" />
-    <h2 align="center">Infrastructure</h2>
+    <h3 align="center">Infrastructure</h3>
     <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,nginx" />
 </div>
 
-<hr/>
+<br/>
 <br/>
 
 <div align="center">
