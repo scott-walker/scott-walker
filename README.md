@@ -8,37 +8,34 @@
 
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 
-<div style="width: 100%;">
-  <table>
-    <tr>
-      <td><b>Frontend</b></td>
-      <td>TypeScript, React, Next.js, Vue</td>
-    </tr>
-    <tr>
-      <td><b>Backend JS</b></td>
-      <td>NestJS, Express, Fastify</td>
-    </tr>
-    <tr>
-      <td><b>Backend PHP</b></td>
-      <td>Laravel, Yii2, Slim, WordPress</td>
-    </tr>
-    <tr>
-      <td><b>Databases</b></td>
-      <td>PostgreSQL, MySQL, MongoDB, Redis</td>
-    </tr>
-    <tr>
-      <td><b>Architecture</b></td>
-      <td>Microservices, SOA, Clean Architecture, FSD</td>
-    </tr>
-    <tr>
-      <td><b>LLM Stack</b></td>
-      <td>DeepSeek, Ollama, HuggingFace, Transformers, MCP</td>
-    </tr>
-  </table>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>TypeScript, React, Next.js, Vue</td>
+  </tr>
+  <tr>
+    <td><b>Backend JS</b></td>
+    <td>NestJS, Express, Fastify</td>
+  </tr>
+  <tr>
+    <td><b>Backend PHP</b></td>
+    <td>Laravel, Yii2, Slim, WordPress</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>PostgreSQL, MySQL, MongoDB, Redis</td>
+  </tr>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>Microservices, SOA, Clean Architecture, FSD</td>
+  </tr>
+  <tr>
+    <td><b>LLM Stack</b></td>
+    <td>DeepSeek, Ollama, HuggingFace, Transformers, MCP</td>
+  </tr>
+</table>
 
 <br/>
-
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,php,laravel,postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql,linux,bash,docker,nginx,apache" />
@@ -51,13 +48,7 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scott-walker&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" alt="Scott's stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scott-walker&layout=compact&theme=buefy&hide_border=true&langs_count=8" alt="Scott's top languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=scott-walker&theme=buefy&hide_border=true" alt="Scott's streak" />
 </div>
 
@@ -96,9 +87,6 @@
   </a>  -->
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=scott-walker&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> 
 </div> 
