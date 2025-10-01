@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2 align="center">🛠️ Technology Stack</h2>
+<h2 align="center">🪓🎸🪄💡🧨⚒️🎨 Technology Stack</h2>
 
 <div align="center">
     
@@ -30,9 +30,13 @@
 <br/>
 
 <div align="center">
+    <h2 align="center">Frontend</h2>
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,figma,react,redux,nextjs,vue,pinia,vite,webpack" />
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel" />
+    <h2 align="center">Backend</h2>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,php,laravel" />
+    <h2 align="center">Data Layer</h2>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql" />
+    <h2 align="center">Infrastructure</h2>
     <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,nginx" />
 </div>
 
