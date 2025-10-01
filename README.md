@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Nunito&weight=900&size=35&duration=2000&pause=500&color=FF00B0&center=true&vCenter=true&width=430&height=70&lines=Hey%2C+World!+%F0%9F%91%8B%F0%9F%A4%A0%F0%9F%8C%8D%F0%9F%92%AB;I'am+Scott+Walker+%F0%9F%98%87;Fullstack+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=900&size=35&duration=2000&pause=500&color=FF00B0&center=true&vCenter=true&width=430&height=70&lines=Hey%2C+World!+%F0%9F%91%8B%F0%9F%A4%A0%F0%9F%8C%8D%F0%9F%92%AB;I'am+Scott+Walker+%F0%9F%98%87;Fullstack+Web+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Fullstack developer focused on building scalable and maintainable systems</h3>
