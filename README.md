@@ -6,34 +6,22 @@
 
 <br/>
 
-<h2 align="center">🛠 Tech Stack & Tools</h2>
+<h2 align="center">🛠 Technology Stack</h2>
 
-<table style="width: 100%;">
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>TypeScript, React, Next.js, Vue</td>
-  </tr>
-  <tr>
-    <td><b>Backend JS</b></td>
-    <td>NestJS, Express, Fastify</td>
-  </tr>
-  <tr>
-    <td><b>Backend PHP</b></td>
-    <td>Laravel, Yii2, Slim, WordPress</td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>PostgreSQL, MySQL, MongoDB, Redis</td>
-  </tr>
-  <tr>
-    <td><b>Architecture</b></td>
-    <td>Microservices, SOA, Clean Architecture, FSD</td>
-  </tr>
-  <tr>
-    <td><b>LLM Stack</b></td>
-    <td>DeepSeek, Ollama, HuggingFace, Transformers, MCP</td>
-  </tr>
-</table>
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | TypeScript, React, Next.js, Vue |
+| **Backend (JS/TS)** | NestJS, Express, Fastify |
+| **Backend (PHP)** | Laravel, Yii2, Slim, WordPress |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Message Brokers & Cache** | Redis, RabbitMQ |
+| **Search & Analytics** | Elasticsearch |
+| **API & Protocols** | REST API, GraphQL, Protobuf, gRPC, WebSockets, SSE |
+| **LLM & AI** | DeepSeek, Ollama, HuggingFace, Transformers, MCP |
+| **Infrastructure** | Linux, Bash, Docker, NGINX, Apache, VirtualBox, KVM |
+| **Architecture** | Microservices, SOA |
+| **Development Principles** | OOP, SOLID, Clean Architecture, FSD |
+| **Methodologies** | Agile, Scrum, Kanban, Troubleshooting |
 
 <br/>
 
