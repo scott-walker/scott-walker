@@ -20,17 +20,20 @@
 | **Search & Analytics** | Elasticsearch |
 | **API & Protocols** | REST API, GraphQL, Protobuf, gRPC, WebSockets, SSE |
 | **LLM & AI** | DeepSeek, Ollama, HuggingFace, Transformers, MCP |
-| **Infrastructure** | Linux, Bash, Docker, NGINX, Apache, VirtualBox, KVM |
+| **Infrastructure** | Linux, Bash, Ansible, Docker, NGINX, Apache, VirtualBox, KVM |
 | **Architecture** | Microservices, SOA |
 | **Development Principles** | OOP, SOLID, Clean Architecture, FSD |
-| **Methodologies** | Agile, Scrum, Kanban, Troubleshooting |
+| **Methodologies** | CI/CD, Agile, Scrum, Kanban, Troubleshooting |
 
 </div>
 
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,nodejs,nestjs,express,php,laravel,postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql,linux,bash,docker,nginx,apache" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,figma,react,redux,nextjs,vue,pinia,vite,webpack" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,ansible,docker,nginx" />
 </div>
 
 <br/>
