@@ -1,19 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Scott+Walker!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&weight=900&size=42&duration=2000&pause=500&color=FF00B0&center=true&vCenter=true&width=435&lines=Hey%2C+World!+%F0%9F%91%8B%F0%9F%A4%A0%F0%9F%8C%8D%F0%9F%92%AB;I'am+Scott+Walker+%F0%9F%98%87;Fullstack+Web+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Fullstack developer focused on building scalable and maintainable systems</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I'm currently working on **LLM-powered applications**
- 🌱 I'm currently learning **Advanced MCP implementations**
- ❓ Ask me about **anything related to my tech stack**
- ⚡ Fun fact: **I debug with console.log()**
- 
- </div>
 
 <br/>
 
@@ -27,7 +16,7 @@
 
 <br/>
 
-<div align="center">
+<div style="width: 100%;">
   <table>
     <tr>
       <td><b>Frontend</b></td>
@@ -92,22 +81,7 @@
 
 <br/>
 
-<h2 align="center">🎯 Development Principles</h2>
-
-<br/>
-
-<div align="center">
-```typescript
-interface DevelopmentApproach {
-  architecture: 'Clean Architecture' | 'FSD' | 'Microservices';
-  principles: 'SOLID' | 'OOP' | 'DRY' | 'KISS';
-  methodologies: 'Agile' | 'Scrum' | 'Kanban';
-  focus: 'Scalability' | 'Maintainability' | 'Performance';
-}
-```
-</div>
-
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">📡 Connect With Me</h2>
 <div align="center"> 
   <!-- <a href="https://linkedin.com/in/yourprofile" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
