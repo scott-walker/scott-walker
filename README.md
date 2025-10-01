@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,php,laravel,postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql,linux,bash,docker,nginx,apache" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,nodejs,nestjs,express,php,laravel,postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,graphql,linux,bash,docker,nginx,apache" />
 </div>
 
 <br/>
