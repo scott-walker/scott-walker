@@ -50,34 +50,13 @@
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br/>
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Microservices Platform** | Scalable microservices architecture with event-driven communication | NestJS, RabbitMQ, PostgreSQL, Docker |
-| **LLM Integration Framework** | Framework for seamless LLM integration in web applications | Next.js, Fastify, Ollama, MCP |
-| **E-commerce Solution** | Full-stack e-commerce with modern architecture | Laravel, Vue, PostgreSQL, Redis |
-| **Real-time Dashboard** | Real-time analytics with WebSocket communication | React, Express, WebSockets, Elasticsearch |
-
-</div>
-
-<br/>
-
 <h2 align="center">📡 Connect With Me</h2>
 <div align="center"> 
   <!-- <a href="https://linkedin.com/in/yourprofile" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>  -->
-  <a href="mailto:scott@swlt.ru"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> 
-  <a href="https://t.me/scottvvalker" target="_blank"> 
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a> 
+  <a href="mailto:scott@swlt.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="https://t.me/scottvvalker" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
   <!-- <a href="https://your-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>  -->
