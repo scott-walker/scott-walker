@@ -44,7 +44,6 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scott-walker&layout=compact&theme=buefy&hide_border=true&langs_count=8" alt="Scott's top languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=scott-walker&theme=buefy&hide_border=true" alt="Scott's streak" />
 </div>
 
